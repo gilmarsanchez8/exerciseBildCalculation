@@ -1,0 +1,13 @@
+.container {
+  padding: 20px;
+}
+table,
+td,
+th {
+  border: 1px solid black;
+  width: 300px;
+  align-items: center;
+}
+.styleRow {
+  text-align: center;
+}
